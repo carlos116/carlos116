@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 👨‍💻 All of my projects are available at [https://carloshernandosuarez.com/projects](https://carloshernandosuarez.com/projects)
+- 👨‍💻 All of my projects are available at [https://carloshernandosuarez.com](https://carloshernandosuarez.com)
 
 - 💬 Ask me about **React, Javascript**
 
